@@ -1,6 +1,8 @@
 <?php 
 
-
+/**
+ * @author: Erik Carrillo
+ */
 class XMLObject {
   var $name;
   var $attributes;
