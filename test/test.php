@@ -1,7 +1,9 @@
 <?php 
 /**
+ *
  * Ejemplo
  * Permite recorrer el XML con recursividad.
+ *
  */
 include '../XMLObject.php';
 
