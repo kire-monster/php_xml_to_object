@@ -1,7 +1,7 @@
 <?php 
 
 /**
- * @author: Erik Carrillo
+ * @package: XMLObject
  */
 class XMLObject {
   var $name;
